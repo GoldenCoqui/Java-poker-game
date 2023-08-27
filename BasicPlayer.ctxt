@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BasicPlayer
+comment0.text=\r\n\ File\:\ \ \ \ \ \ \ \ \ \ \ \ BasicPlayer.java\r\n\ Author\:\ \ \ \ \ \ \ \ \ \ Joel\ De\ La\ Torre\ Cruz\r\n\ Programming\:\ \ \ \ \ 1st\ Hour\r\n\ Last\ Modified\:\ \ \ November\ 13,\ 2018\r\n\ Description\:\ \ \ \ \ Makes\ a\ player\ with\ a\ \r\n\ hand\ of\ cards\ that\ can\ be\ dealt\ a\ card\r\n\ and\ the\ cards\ can\ be\ taken\ away.\ It\ will\r\n\ also\ sort\ the\ hand\ by\ suit,\ rank,\ value.\r\n
+comment1.params=
+comment1.target=BasicPlayer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BasicPlayer\r\n
+comment2.params=c
+comment2.target=void\ setACardInHand(Card)
+comment2.text=\r\n\ sets\ a\ card\ in\ the\ players\ hand\r\n
+comment3.params=
+comment3.target=Card\ getACardInHand()
+comment3.text=\r\n\ gets\ a\ card\ from\ the\ player\ hands\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ returns\ the\ players\ name\r\n
+comment5.params=
+comment5.target=void\ sortByValue()
+comment5.text=\r\n\ sorts\ the\ cards\ by\ value\r\n
+comment6.params=
+comment6.target=void\ sortBySuit()
+comment6.text=\r\n\ sorts\ the\ cards\ by\ suit\r\n
+comment7.params=
+comment7.target=void\ sortByRank()
+comment7.text=\r\n\ sorts\ the\ cards\ by\ rank\r\n
+numComments=8

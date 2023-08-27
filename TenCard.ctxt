@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TenCard
+comment0.text=\r\n\ File\:\ \ \ \ \ \ \ \ \ \ \ \ TenCard.java\r\n\ Author\:\ \ \ \ \ \ \ \ \ \ Joel\ De\ La\ Torre\ Cruz\r\n\ Programming\:\ \ \ \ \ 1st\ Hour\r\n\ Last\ Modified\:\ \ \ November\ 2,\ 2018\r\n\ Description\:\ \ \ \ \ Displays\ ten\ cards\ one\ from\r\n\ player\ one\ and\ one\ from\ player\ 2.\ Flips,\ sorts\r\n\ and\ shuffles\ the\ cards\ and\ displays\ the\ image\r\n\ on\ buttons.\r\n
+comment1.params=
+comment1.target=TenCard()
+comment1.text=\ \r\n\ constructor\ that\ creates\ or\ instatiates\ the\ frame,\ panel,\r\n\ layout,\ etc.\r\n
+comment2.params=arg
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\ \r\n\ this\ is\ where\ we\ all\ start\r\n
+comment3.params=
+comment3.target=void\ addButtonsToContentPanel()
+comment3.text=\r\n\ \ create,\ add,\ and\ attach\ events\ for\ the\ buttons\ to\ the\ \r\n\ \ content\ panel\r\n
+comment4.params=
+comment4.target=void\ addFieldToContentPanel()
+comment4.text=\ \r\n\ create,add,\ and\ attach\ events\ for\ the\ text\ fields\ to\ the\r\n\ content\ panel\r\n
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\ \r\n\ handle\ the\ actions\ were\ taken\ in\ the\ application\ window\r\n
+numComments=6
